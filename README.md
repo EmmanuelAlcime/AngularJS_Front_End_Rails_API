@@ -1,1 +1,1 @@
-# Capstone Demo Application
+ Demo Application
